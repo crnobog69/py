@@ -28,3 +28,12 @@ ruby cpytomd.rb
 ```bash
 ruby cbrojac.rb
 ```
+
+---
+
+## Први семестар - Програмски језик ***C***
+> [!CAUTION]
+> Репозиторијум са задацима из првог семестра можете пронаћи на:
+> <br>
+> <br>
+> [**`github.com/crnobog69/c`**](https://github.com/crnobog69/c)
