@@ -36,4 +36,4 @@ ruby cbrojac.rb
 > Репозиторијум са задацима из првог семестра можете пронаћи на:
 > <br>
 > <br>
-> [**`github.com/crnobog69/c`**](https://github.com/crnobog69/c)
+> [***`crnobog69/c`***](https://github.com/crnobog69/c)
