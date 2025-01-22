@@ -7,7 +7,7 @@
 ## Структуа репозиторијума
 
 - [`drugiSemestar-2025`](drugiSemestar-2025/)
-    - [`test](drugiSemestar-2025/test/)
+    - [`test`](drugiSemestar-2025/test/)
 
 ---
 
