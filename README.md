@@ -13,6 +13,7 @@
 
 - [`drugiSemestar-2025`](drugiSemestar-2025/)
     - [`test`](drugiSemestar-2025/test/)
+    - [`vezbe`](drugiSemestar-2025/vezbe/)
 
 ---
 
