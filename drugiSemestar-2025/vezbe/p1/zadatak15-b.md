@@ -10,4 +10,6 @@ elif broj < 0:
     print("Broj je negativan.")
 else:
     print("Broj je jednak nuli.")
+
+
 ```
