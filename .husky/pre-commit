@@ -1,7 +1,11 @@
 #!/bin/sh
 
+uv lock
+
 ruby cpytomd.rb
 
 git add .
 
 bun prettier --write .
+
+ruby cbrojac.rb

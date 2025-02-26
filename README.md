@@ -17,6 +17,20 @@
 
 ---
 
+### Виртуално кружење
+
+```bash
+uv venv .venv
+```
+
+```bash
+source .venv/bin/activate
+```
+
+```bash
+deactivate
+```
+
 ### Форматирање
 
 ```bash
