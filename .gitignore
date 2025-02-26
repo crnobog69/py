@@ -14,11 +14,6 @@ bun.lockb
 .DS_Store            # macOS
 Thumbs.db            # Windows
 
-# Конфигурација IDE-а
-.vscode/
-.idea/
-*.sublime-workspace
-
 # Локалне конфигурације
 .env
 

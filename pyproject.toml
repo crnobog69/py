@@ -1,0 +1,7 @@
+[project]
+name = "py-zadaci"
+version = "0.1.0"
+description = "Задаци из предмета `Програмитање 2`."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
