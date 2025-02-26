@@ -20,3 +20,6 @@ Thumbs.db            # Windows
 # Build фајлови
 dist/
 build/
+
+# Виртуелни окружења
+.venv
