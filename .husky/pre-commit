@@ -9,3 +9,5 @@ git add .
 bun prettier --write .
 
 ruby cbrojac.rb
+
+echo
