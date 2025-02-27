@@ -37,6 +37,10 @@ deactivate
 bun add prettier --dev && bun prettier --write .
 ```
 
+```bash
+uv run ruff format
+```
+
 ### `Python` у `Markdown`
 
 ```bash

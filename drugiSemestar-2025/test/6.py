@@ -1,4 +1,3 @@
-
 opis = input("Unesite opis: ")
 velicina = input("Unesite velicinu: ")
 radnja = input("Unesite radnju: ")
