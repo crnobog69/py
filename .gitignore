@@ -23,3 +23,6 @@ build/
 
 # Виртуелни окружења
 .venv
+
+# Ruff
+.ruff_cache

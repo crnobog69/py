@@ -8,6 +8,8 @@ git add .
 
 bun prettier --write .
 
+uv run ruff format
+
 ruby cbrojac.rb
 
 echo
