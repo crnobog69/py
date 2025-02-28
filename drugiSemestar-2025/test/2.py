@@ -1,3 +1,5 @@
+# 2
+
 ime = "Lain"
 
 print("Zdravo, " + ime + "!")

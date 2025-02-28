@@ -1,3 +1,5 @@
+# 1
+
 import sys
 
 broj = input("Unesite trocifreni broj: ")
