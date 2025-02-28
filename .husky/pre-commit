@@ -2,7 +2,6 @@
 
 uv lock
 
-ruby cpytomd.rb
 
 git add .
 
