@@ -12,6 +12,8 @@
 ## Структуа репозиторијума
 
 - [`drugiSemestar-2025`](drugiSemestar-2025/)
+    - [`1_linijske_strukture`](drugiSemestar-2025/1_linijske_strukture/)
+    - [`2_razgranate_strukture`](drugiSemestar-2025/2_razgranate_strukture/)
     - [`test`](drugiSemestar-2025/test/)
     - [`vezbe`](drugiSemestar-2025/vezbe/)
 

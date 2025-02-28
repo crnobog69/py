@@ -1,5 +1,4 @@
-```python
-# Zadatak 20
+# Zadatak 20-a
 
 x = float(input("Unesite x: "))
 y = float(input("Unesite y: "))
@@ -16,5 +15,3 @@ else:
         z = y
 
 print("z = ", z)
-
-```
