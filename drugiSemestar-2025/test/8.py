@@ -1,3 +1,5 @@
+# 8
+
 predmet = input("Unesite ime predmeta: ")
 cena = float(input("Unesite cenu predmeta: "))
 kolicina = int(input("Unesite kolicinu: "))

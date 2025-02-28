@@ -1,3 +1,5 @@
+# 7
+
 duzina = float(input("Unesite duzinu pravugaonika: "))
 sirina = float(input("Unesite sirinu pravougaonika: "))
 visina = float(input("Unesite visinu pravougaonika: "))
