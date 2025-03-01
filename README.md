@@ -36,11 +36,11 @@ deactivate
 ### Форматирање
 
 ```bash
-bun add prettier --dev && bun prettier --write .
+uv run ruff format
 ```
 
 ```bash
-uv run ruff format
+bun add prettier --dev && bun prettier --write .
 ```
 
 ### `Python` у `Markdown`
