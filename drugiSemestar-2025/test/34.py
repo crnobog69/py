@@ -1,4 +1,4 @@
-# 43
+# 34
 
 links = [
     "www.crnobog.vercel.app",
