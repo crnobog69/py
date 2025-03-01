@@ -1,0 +1,64 @@
+# 31
+
+for x in range(1, 11):
+    print(x)
+
+print()
+
+for x in range(1, 11):
+    print(x)
+
+print()
+
+for brojac in range(1, 11):
+    print(brojac)
+
+print()
+
+for _ in range(-1, 11):
+    print(_)
+
+print()
+
+for x in reversed(range(1, 11)):
+    print(x)
+print("СРЕЋНА НОВА ГОДИНА!")
+
+print()
+
+# (start, end, step)
+
+for x in reversed(range(1, 11, 3)):
+    print(x)
+print("СРЕЋНА НОВА ГОДИНА!")
+
+print()
+
+brojKreditneKartice = "1234-5678-9012-3456"
+
+for x in brojKreditneKartice:
+    print(x)
+
+print()
+
+for x in brojKreditneKartice:
+    if x == "-":
+        continue
+    else:
+        print(x)
+
+print()
+
+for x in range(1, 21):
+    if x == 13:
+        continue
+    else:
+        print(x)
+
+print()
+
+for x in range(1, 21):
+    if x == 13:
+        break
+    else:
+        print(x)
