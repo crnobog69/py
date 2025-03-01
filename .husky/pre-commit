@@ -1,15 +1,22 @@
 #!/bin/sh
+set -e
 
+echo "Покрећем Ruby скрипту за Markdown..."
 ruby cpytomd.rb
 
+echo "Закључавам зависности..."
 uv lock
 
+echo "Додајем измене..."
 git add .
 
+echo "Форматирам код помоћу Prettier..."
 bun prettier --write .
 
+echo "Форматирам Python код помоћу Ruff..."
 uv run ruff format
 
+echo "Покрећем Ruby скрипту за бројчане метрике..."
 ruby cbrojac.rb
 
-echo
+echo "Све је успешно, настављам са комитом!"
