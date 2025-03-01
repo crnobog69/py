@@ -1,8 +1,8 @@
 # 17
 
-odgovor = input("Da li bi ste hteli hranu? (D/N)")
+odgovor = input("Да ли би сте хтели храну? (D/N)")
 
 if odgovor == "D" or odgovor == "d":
-    print("Evo malo hrane!")
+    print("Ево мало хране!")
 else:
-    print("Nema hrane za vas.")
+    print("Нема хране за вас.")

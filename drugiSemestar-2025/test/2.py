@@ -2,7 +2,7 @@
 
 ime = "Lain"
 
-print("Zdravo, " + ime + "!")
-print(f"Zdravo, {ime}!")
-print("Zdravo, {}!".format(ime))
-print("Zdravo, %s!" % ime)
+print("Здраво, " + ime + "!")
+print(f"Здраво, {ime}!")
+print("Здраво, {}!".format(ime))
+print("Здраво, %s!" % ime)

@@ -1,14 +1,14 @@
 # 6
 
-opis = input("Unesite opis: ")
-velicina = input("Unesite velicinu: ")
-radnja = input("Unesite radnju: ")
-mesto = input("Unesite mesto: ")
-radnja_2 = input("Unesite radnju: ")
+opis = input("Унесите опис: ")
+velicina = input("Унесите величину: ")
+radnja = input("Унесите радњу: ")
+mesto = input("Унесите место: ")
+radnja_2 = input("Унесите радњу: ")
 
 print("\n")
 
-print(f"Danas sam kupio {opis} racunar!")
-print(f"Ima {velicina} kuciste!")
-print(f"Onda sam {radnja} u {mesto}!")
-print(f"Pa sam svima {radnja_2}")
+print(f"Данас сам купио {opis} рачунар!")
+print(f"Има {velicina} кућиште!")
+print(f"Онда сам {radnja} у {mesto}!")
+print(f"Па сам свима {radnja_2}")

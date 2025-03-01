@@ -2,13 +2,13 @@
 
 import sys
 
-broj = input("Unesite trocifreni broj: ")
+broj = input("Унесите троцифрени број: ")
 
 # Provjera uslova
 if len(broj) != 3:
-    print("Greška: Morate unijeti tačno tri cifre!")
+    print("Грешка: Морате унијети тачно три цифре!")
     sys.exit(1)
 
-print(f"Stotine: {broj[0]}")
-print(f"Desetice: {broj[1]}")
-print(f"Jedinice: {broj[2]}")
+print(f"Стотине: {broj[0]}")
+print(f"Десетице: {broj[1]}")
+print(f"Јединице: {broj[2]}")

@@ -1,3 +1,3 @@
 # 9
 
-a = int(input("ALO"))
+a = int(input("АЛО"))

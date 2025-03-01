@@ -3,6 +3,6 @@
 naProdaji = True
 
 if naProdaji:
-    print("Ovaj predmet je na prodaju.")
+    print("Овај предмет је на продају.")
 else:
-    print("Ovaj predmet nije na prodaji.")
+    print("Овај предмет није на продаји.")

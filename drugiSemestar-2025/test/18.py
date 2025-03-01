@@ -1,8 +1,8 @@
 # 18
 
-ime = input("Unesite vase ime: ")
+ime = input("Унесите ваше име: ")
 
 if ime == "":
-    print("Niste uneli vase ime!")
+    print("Нисте унели ваше име!")
 else:
-    print(f"Zdravo, {ime}!")
+    print(f"Здраво, {ime}!")

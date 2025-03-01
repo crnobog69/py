@@ -2,8 +2,8 @@
 
 import math
 
-obim = float(input("Unesite obim kruga: "))
+obim = float(input("Унесите обим круга: "))
 
 povrsina = math.pi * math.pow(obim, 2)
 
-print(f"Povrsina kruga je: {round(povrsina, 2)} cm^2")
+print(f"Површина круга је: {round(povrsina, 2)} цм^2")

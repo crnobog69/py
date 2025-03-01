@@ -1,10 +1,10 @@
 # 8
 
-predmet = input("Unesite ime predmeta: ")
-cena = float(input("Unesite cenu predmeta: "))
-kolicina = int(input("Unesite kolicinu: "))
+predmet = input("Унесите име предмета: ")
+cena = float(input("Унесите цену предмета: "))
+kolicina = int(input("Унесите количину: "))
 
 ukupno = cena * kolicina
 
-print(f"Kupili ste {kolicina} x {predmet}")
-print(f"Ukupno za placanje: {round(ukupno, 2)} RSD")
+print(f"Купили сте {kolicina} x {predmet}")
+print(f"Укупно за плаћање: {round(ukupno, 2)} дин")
