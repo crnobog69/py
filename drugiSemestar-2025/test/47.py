@@ -1,1 +1,49 @@
 # 47
+
+import random
+
+izbori = ("камен", "папир", "маказе")
+igrac = None
+igracPobeda = 0
+racunarPobeda = 0
+
+igraRadi = True
+
+while igraRadi:
+    racunar = random.choice(izbori)
+    igrac = None
+
+    while igrac not in izbori:
+        igrac = input("Унесите избор (камен, папир, маказе):")
+
+    print(f"Играч:   {igrac:^10}")
+    print(f"Рачунар: {racunar:^10}")
+
+    if igrac == racunar:
+        print("Изједначено је")
+        print()
+    elif igrac == "камен" and racunar == "маказе":
+        print("Играч је победио!")
+        igracPobeda += 1
+        print()
+    elif igrac == "папир" and racunar == "камен":
+        print("Играч је победио!")
+        igracPobeda += 1
+        print()
+    elif igrac == "маказе" and racunar == "папир":
+        print("Играч је победио!")
+        igracPobeda += 1
+        print()
+    else:
+        print("Рачунар је победио!")
+        racunarPobeda += 1
+        print()
+
+    if not input("Још једна партија? (д/н): ").lower() == "д":
+        igraRadi = False
+
+print()
+
+print("Хвала на игрању!")
+print(f"Играч је победио: {igracPobeda} пута")
+print(f"Рачунар је победио: {racunarPobeda} пута.")
