@@ -1,0 +1,25 @@
+# 45
+
+import random
+
+# print(help(random))
+# print(dir(random))
+
+# broj = random.randint(1, 20)
+
+najnize = 1
+najvise = 100
+
+broj1 = random.randint(najnize, najvise)
+broj2 = random.random()
+
+print(broj1)
+print(broj2)
+
+izbori = ("камен", "папир", "маказе")
+broj3 = random.choice(izbori)
+print(broj3)
+
+karte = ["2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"]
+random.shuffle(karte)
+print(karte)

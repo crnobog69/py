@@ -1,0 +1,41 @@
+# 43
+
+glavniGradovi = {
+    "Косово и Метохија": "Косовска Митровица",
+    "Србија": "Београд",
+    "Српска": "Бања Лука",
+    "Црна Гора": "Подгорица",
+}
+
+# print(dir(glavniGradovi))
+# print(help(glavniGradovi))
+
+# print(glavniGradovi.get("Косово и Метохија"))
+
+# if glavniGradovi == glavniGradovi.get("Јапан")
+if glavniGradovi.get("Јапан"):
+    print("Тај гавни град постоји.")
+else:
+    print("Тај главни град не постоји.")
+
+glavniGradovi.update({"Стара Србија": "Скопље"})
+glavniGradovi.update({"Србија": "Приштина"})
+# glavniGradovi.pop("Српска")
+# glavniGradovi.popitem()
+# glavniGradovi.clear()
+
+print(glavniGradovi)
+
+# kljucevi = glavniGradovi.keys()
+# print(kljucevi)
+# for kljuc in glavniGradovi.values():
+#     print(kljuc)
+
+# vrednosti = glavniGradovi.values()
+# for vrednost in glavniGradovi.values():
+#     print(vrednost)
+
+# stavke = glavniGradovi.items()
+# print(stavke)
+for kljuc, vrednost in glavniGradovi.items():
+    print(f"{kljuc}: {vrednost}")
