@@ -18,7 +18,6 @@ class OpstinaProzor(QMainWindow):
         self.setWindowTitle("Проверa карактера")
         self.setGeometry(100, 100, 600, 500)  # x, y
 
-        # Main widget and layout
         main_widget = QWidget()
         main_layout = QVBoxLayout()
         main_widget.setLayout(main_layout)
