@@ -1,8 +1,8 @@
 ```python
 # Zadatak 20-a
 
-x = float(input("Unesite x: "))
-y = float(input("Unesite y: "))
+x = float(input("Унесите x: "))
+y = float(input("Унесите y: "))
 
 if y <= 0:
     if (x * x) < (y * y):

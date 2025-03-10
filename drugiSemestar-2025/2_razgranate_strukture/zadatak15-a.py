@@ -1,9 +1,9 @@
 # Zadatak 15-a
 
-broj = input("Unesite broj: ")
+broj = input("Унесите број: ")
 broj = int(broj)
 
 if broj % 2 == 0:
-    print("Broj je paran.")
+    print("Број је паран.")
 else:
-    print("broj je neparan.")
+    print("Број је непаран.")

@@ -14,6 +14,7 @@
 - [`drugiSemestar-2025`](drugiSemestar-2025/)
     - [`1_linijske_strukture`](drugiSemestar-2025/1_linijske_strukture/)
     - [`2_razgranate_strukture`](drugiSemestar-2025/2_razgranate_strukture/)
+    - [`3_ciklicne_strukture`](drugiSemestar-2025/3_ciklicne_strukture/)
     - [`test`](drugiSemestar-2025/test/)
     - [`vezbe`](drugiSemestar-2025/vezbe/)
 
