@@ -12,10 +12,10 @@
 ## Структуа репозиторијума
 
 - [`drugiSemestar-2025`](drugiSemestar-2025/)
-    - [`1_linijske_strukture`](drugiSemestar-2025/1_linijske_strukture/)
-    - [`2_razgranate_strukture`](drugiSemestar-2025/2_razgranate_strukture/)
-    - [`3_ciklicne_strukture_for`](drugiSemestar-2025/3_ciklicne_strukture_for/)
-    - [`3_ciklicne_strukture_while`](drugiSemestar-2025/3_ciklicne_strukture_while/)
+    - [`1_linijske_strukture_programa`](drugiSemestar-2025/1_linijske_strukture_programa/)
+    - [`2_razgranate_strukture_programa`](drugiSemestar-2025/2_razgranate_strukture_programa/)
+    - [`3_ciklicne_strukture_programa_for_petlja`](drugiSemestar-2025/3_ciklicne_strukture_programa_for_petlja/)
+    - [`4_ciklicne_strukture_programa_while_petlja`](drugiSemestar-2025/4_ciklicne_strukture_programa_while_petlja/)
     - [`test`](drugiSemestar-2025/test/)
     - [`vezbe`](drugiSemestar-2025/vezbe/)
 
