@@ -1,0 +1,73 @@
+# Промпт / Prompt
+
+<!-- Српски (ћирилица) / Српски (ћирилица) / Serbian (Cyrillic) -->
+Убаци детаљне коментаре на српском језику који објашњавају сваку линију, сваки блок, сваки параметар и повратну вредност
+
+<!-- Српски (латиница) / Srpski (latinica) / Serbian (Latin) -->
+Ubaci detaljne komentare na srpskom jeziku koji objašnjavaju svaku liniju, svaki blok, svaki parametar i povratnu vrednost
+
+<!-- Енглески / English / English -->
+Insert detailed comments that explain each line, each block, each parameter, and return value
+
+<!-- Руски / Русский / Russian -->
+Вставьте подробные комментарии на русском языке, объясняющие каждую строку, каждый блок, каждый параметр и возвращаемое значение
+
+<!-- Француски / Français / French -->
+Insérez des commentaires détaillés en français expliquant chaque ligne, chaque bloc, chaque paramètre et valeur de retour
+
+<!-- Шпански / Español / Spanish -->
+Inserte comentarios detallados en español que expliquen cada línea, cada bloque, cada parámetro y valor de retorno
+
+<!-- Немачки / Deutsch / German -->
+Fügen Sie detaillierte Kommentare auf Deutsch ein, die jede Zeile, jeden Block, jeden Parameter und Rückgabewert erklären
+
+<!-- Кинески (поједностављени) / 简体中文 / Chinese (Simplified) -->
+插入详细的中文注释，解释每行代码、每个代码块、每个参数和返回值
+
+<!-- Кинески (традиционални) / 繁體中文 / Chinese (Traditional) -->
+插入詳細的繁體中文註釋，解釋每行代碼、每個代碼塊、每個參數和返回值
+
+<!-- Јапански / 日本語 / Japanese -->
+各行、各ブロック、各パラメータ、および戻り値を説明する詳細な日本語コメントを挿入してください
+
+<!-- Корејски / 한국어 / Korean -->
+각 줄, 각 블록, 각 매개변수 및 반환 값을 설명하는 자세한 한국어 주석을 삽입하세요
+
+<!-- Казашки / Қазақ / Kazakh -->
+Әр жолды, әр блокты, әр параметрді және қайтару мәнін түсіндіретін қазақ тіліндегі егжей-тегжейлі түсініктемелерді енгізіңіз
+
+<!-- Португалски / Português / Portuguese -->
+Insira comentários detalhados em português que expliquem cada linha, cada bloco, cada parâmetro e valor de retorno
+
+<!-- Хинди / हिन्दी / Hindi -->
+प्रत्येक लाइन, प्रत्येक ब्लॉक, प्रत्येक पैरामीटर और रिटर्न वैल्यू को समझाने वाली विस्तृत हिंदी टिप्पणियां डालें
+
+<!-- Италијански / Italiano / Italian -->
+Inserisci commenti dettagliati in italiano che spieghino ogni riga, ogni blocco, ogni parametro e valore di ritorno
+
+<!-- Грчки / Ελληνικά / Greek -->
+Εισαγάγετε λεπτομερή σχόλια στα ελληνικά που εξηγούν κάθε γραμμή, κάθε μπλοκ, κάθε παράμετρο και τιμή επιστροφής
+
+<!-- Пољски / Polski / Polish -->
+Wstaw szczegółowe komentarze w języku polskim, które wyjaśniają każdą linię, każdy blok, każdy parametr i wartość zwracaną
+
+<!-- Чешки / Čeština / Czech -->
+Vložte podrobné komentáře v češtině vysvětlující každý řádek, každý blok, každý parametr a návratovou hodnotu
+
+<!-- Словачки / Slovenčina / Slovak -->
+Vložte podrobné komentáre v slovenčine vysvetľujúce každý riadok, každý blok, každý parameter a návratovú hodnotu
+
+<!-- Шведски / Svenska / Swedish -->
+Infoga detaljerade kommentarer på svenska som förklarar varje rad, varje block, varje parameter och returvärde
+
+<!-- Норвешки / Norsk / Norwegian -->
+Sett inn detaljerte kommentarer på norsk som forklarer hver linje, hver blokk, hver parameter og returverdi
+
+<!-- Фински / Suomi / Finnish -->
+Lisää yksityiskohtaisia kommentteja suomeksi, jotka selittävät jokaisen rivin, jokaisen lohkon, jokaisen parametrin ja paluuarvon
+
+<!-- Мађарски / Magyar / Hungarian -->
+Illesszen be részletes magyar nyelvű megjegyzéseket, amelyek elmagyarázzák az egyes sorokat, blokkokat, paramétereket és visszatérési értékeket
+
+<!-- Румунски / Română / Romanian -->
+Introduceți comentarii detaliate în limba română care explică fiecare linie, fiecare bloc, fiecare parametru și valoare returnată
