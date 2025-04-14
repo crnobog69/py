@@ -1,1 +1,36 @@
-bun test
+#!/bin/sh
+set -e
+
+echo "Покрећем Ruby скрипту за претварање Python датотека у Markdown..."
+echo
+ruby cpytomd.rb
+echo
+
+echo "Закључавам зависности..."
+echo
+uv lock
+echo
+
+echo "Додајем измене..."
+echo
+git add .
+echo
+
+echo "Форматирам код помоћу Prettier..."
+echo
+bun add prettier --dev && bun prettier --write .
+echo
+
+echo "Форматирам Python код помоћу Ruff..."
+echo
+uv run ruff format
+echo
+
+echo "Покрећем Ruby скрипту за пребројавање редова, карактера и .py датотека..."
+echo
+ruby cbrojac.rb
+echo
+
+echo
+echo "Све је успешно, настављам са комитом!"
+echo
