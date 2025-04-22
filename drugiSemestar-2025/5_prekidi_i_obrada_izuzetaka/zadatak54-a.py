@@ -1,9 +1,6 @@
-```python
-# Zadatak 49-a
+# Zadatak 54-a
 
 for i in range(1, 11, 1):
     if i == 5:
-        break
+        continue
     print(f"i = {i}")
-
-```
