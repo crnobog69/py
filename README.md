@@ -17,6 +17,7 @@
     - [`3_ciklicne_strukture_programa_for_petlja`](drugiSemestar-2025/3_ciklicne_strukture_programa_for_petlja/)
     - [`4_ciklicne_strukture_programa_while_petlja`](drugiSemestar-2025/4_ciklicne_strukture_programa_while_petlja/)
     - [`5_prekidi_i_obrada_izuzetaka`](drugiSemestar-2025/5_prekidi_i_obrada_izuzetaka/)
+    - [`6_funkcije`](drugiSemestar-2025/6_funkcije/)
     - [`test`](drugiSemestar-2025/test/)
     - [`vezbe`](drugiSemestar-2025/vezbe/)
 

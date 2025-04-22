@@ -7,7 +7,7 @@
 # иначе програм прекида рад уз одговарајућу поруку
 
 MAX_POKUSAJA = 5
-MAX_BROJ = 20
+MAX_BROJ = 21
 
 import random
 
