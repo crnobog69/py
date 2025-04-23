@@ -6,6 +6,9 @@
 <!-- Српски (латиница) / Srpski (latinica) / Serbian (Latin) -->
 Ubaci detaljne komentare na srpskom jeziku koji objašnjavaju svaku liniju, svaki blok, svaki parametar i povratnu vrednost
 
+<!-- Румунски / Română / Romanian -->
+Introduceți comentarii detaliate în limba română care explică fiecare linie, fiecare bloc, fiecare parametru și valoare returnată
+
 <!-- Енглески / English / English -->
 Insert detailed comments that explain each line, each block, each parameter, and return value
 
@@ -68,6 +71,3 @@ Lisää yksityiskohtaisia kommentteja suomeksi, jotka selittävät jokaisen rivi
 
 <!-- Мађарски / Magyar / Hungarian -->
 Illesszen be részletes magyar nyelvű megjegyzéseket, amelyek elmagyarázzák az egyes sorokat, blokkokat, paramétereket és visszatérési értékeket
-
-<!-- Румунски / Română / Romanian -->
-Introduceți comentarii detaliate în limba română care explică fiecare linie, fiecare bloc, fiecare parametru și valoare returnată
