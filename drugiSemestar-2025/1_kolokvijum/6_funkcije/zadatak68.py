@@ -9,6 +9,13 @@ def fakt(n):
     return n * fakt(n - 1)
 
 
+def dvostruki_faktorijal(n):
+    if n <= 0:
+        return 1
+    else:
+        return n * dvostruki_faktorijal(n - 2)
+
+
 n = int(input("n = "))
 
 suma = 0
