@@ -17,4 +17,27 @@ for i in range(0, m):
         red.append(int(input()))
     mat.append(red)
 
+# Први начин
+print("\nМАТРИЦА")
+print(mat)
+
+# Други начин
+print("\nМАТРИЦА")
+for i in range(0, m):
+    print(mat[i])
+
+# Трећи начин
+print("\nМАТРИЦА")
+for red in mat:
+    for element in red:
+        print(element, " ", end="")
+    print()
+
+# Четврти начин
+print("\nМАТРИЦА")
+for i in range(0, m):
+    for j in range(0, n):
+        print(mat[i][j], " ", end="")
+    print()
+
 ```
