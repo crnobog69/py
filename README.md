@@ -22,6 +22,7 @@
         - [`7 - Низови`](drugiSemestar-2025/1_kolokvijum/7_nizovi/)
     - [`Други колоквијум`](drugiSemestar-2025/2_kolokvijum/)
         - [`8 - Матрице`](drugiSemestar-2025/2_kolokvijum/8_matrice/)
+        - [`9 - Стрингови`](drugiSemestar-2025/2_kolokvijum/9_stringovi/)
     - [`test`](drugiSemestar-2025/test/)
     - [`vezbe`](drugiSemestar-2025/vezbe/)
 
